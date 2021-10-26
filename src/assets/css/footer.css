@@ -1,0 +1,17 @@
+footer {
+	background: #1c1b1b;
+	color: white;
+	text-align: center;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+footer a {
+	color: white;
+}
+
+footer a:hover {
+	color: #b1afaf;
+}

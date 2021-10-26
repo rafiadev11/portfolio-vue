@@ -1,0 +1,32 @@
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.6);
+}
+
+.img-rounded {
+	border-radius: 30%;
+}
+.green-bg {
+	background: linear-gradient(white, #42b983);
+	padding: 20px;
+}
+
+.green-bg span {
+	color: white;
+}
